@@ -4,6 +4,6 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Enter a list of numbers, type 0 when finished .");
+        Console.WriteLine("Hello prep3 world");
     }
 }
